@@ -1,6 +1,10 @@
 body{
-
-    text-align: center;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    color:blueviolet;
+    color:black;
+}
+#contenedor{
+    color:rgb(8, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
+
 }
