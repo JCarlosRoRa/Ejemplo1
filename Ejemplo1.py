@@ -1,4 +1,4 @@
-print("Hola mundo, version 1.0")
+print("Hola mundo, version 2.0")
 n= input("Ingrese un numero menor a 10;  ")
 n = int(n)
 for i in range (1,n):
