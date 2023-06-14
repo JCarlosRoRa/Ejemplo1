@@ -17,6 +17,17 @@ body{
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     color:black;
+}
 
+
+#idioma #logo{
+    width: 300px;
+    height: auto;
+    vertical-align:middle;
+
+}
+
+#idioma{
+background-color: rgb(68, 132, 243);
 
 }
